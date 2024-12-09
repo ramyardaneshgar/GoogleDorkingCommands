@@ -1,5 +1,7 @@
 # GoogleDorkingCommands
-Commands for Google Dorking Reconnaissance. 
+Commands for Google Dorking Web Reconnaissance. 
+
+By Ramyar Daneshgar
 
 | **Operator**          | **Operator Description**                                      | **Example**                                             | **Example Description**                                                                 |
 |------------------------|--------------------------------------------------------------|---------------------------------------------------------|-----------------------------------------------------------------------------------------|
